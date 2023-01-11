@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Introducing the Compound Component pattern
+
+Let’s discuss the Compound Component pattern. The objective of the compound component pattern is to have a clearer, more expressive, and flexible API. Kent C Dodds succinctly explains them as:
+
+Think of compound components like the <select> and <option> elements in HTML. Apart they don't do too much, but together they allow you to create the complete experience. The way they do this is by sharing implicit state between the components. Compound components allow you to create and use components which share this state implicitly.— Kent C. Dodds
+
+ You can check more from Kent C. Dodds [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
