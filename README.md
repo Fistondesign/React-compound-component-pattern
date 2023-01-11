@@ -53,3 +53,5 @@ Think of compound components like the `<select>` and `<option>` elements in HTML
 
 ## Learn more 
  You can check more from Kent C. Dodds [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks).
+
+ [Compound Components In React](https://www.smashingmagazine.com/2021/08/compound-components-react/).
